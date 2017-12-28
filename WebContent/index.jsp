@@ -23,7 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <body>  
     Hello World <br>  
     <%  
-    out.println("你好，运维源濛的朋友们");   
+    out.println("6666666666666666");   
      %>  
   </body>  
 </html>  
